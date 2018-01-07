@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "James Mensch"
 title_separator          : "-"
 name                     : "James Mensch"
-description              : "James Mensch is An alumnus of Philly startups Tembo and Zoomer (YC '14) and current CTO of The Wed Clique (Techstars '17), James has spent his career building and managing data driven applications for private and public organizations. He is also an organizer, speaker, and mentor for several diversity and civic initiatives in Austin and Philadelphia."
+description              : "James Mensch is an alumnus of Philly startups Tembo and Zoomer (YC '14) and current Director of Engineering at Threatcare (Techstars '17). He has spent his career building and managing data driven applications for private and public organizations. He is also an organizer, speaker, and mentor for several diversity and civic initiatives in Austin and Philadelphia."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "James Mensch"
   avatar           : "/assets/images/me.png"
-  bio              : "Communicator. Engineer. Ally. Entrepreneur."
+  bio              : "Communicator. Engineer. Ally. Entrepreneur. <br/> Director of Engineering @ <a href='http://threatcare.com'>Threatcare</a> <br/> CEO @ <a href='http://magnifai.io'>Magnifai</a>"
   location         : "Austin, TX"
   email            : "james@jamesmensch.com"
   uri              :
